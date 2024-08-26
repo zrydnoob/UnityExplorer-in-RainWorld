@@ -5,6 +5,11 @@ Unity Explorer: https://github.com/sinai-dev/UnityExplorer
 
 Templates: https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates/TemplateModWithOptions
 
+## Download
+Stream community: https://steamcommunity.com/sharedfiles/filedetails/?id=3317633200
+
+github releases
+
 ## Build
 Use Visual Studio
 

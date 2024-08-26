@@ -1,0 +1,10 @@
+{
+  "id": "zrydnoob.UnityExplorer",
+  "name": "Unity Explorer",
+  "version": "1.0.0",
+  "authors": "zrydnoob",
+  "description": "Unity Explorer in rain world.\n An in-game UI for exploring, debugging and modifying Unity games. \n Unity Explorer github: https://github.hub/sinai-dev/UnityExplorer",
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": true
+}
